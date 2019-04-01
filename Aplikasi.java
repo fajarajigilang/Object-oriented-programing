@@ -10,10 +10,10 @@ public class Aplikasi {
         frame.setLayout(new BorderLayout());
 
         JLabel lblnama =new JLabel();
-        lblnama.setText("erie");
+        lblnama.setText("fajarajigilang");
        // frame.add(lblnama, BorderLayout.WEST);
         JLabel lblNim =new JLabel();
-        lblNim.setText("19090018");
+        lblNim.setText("17090138");
 
         JButton btnSimpan =new JButton("Simpan");
         frame.add(btnSimpan, BorderLayout.EAST);
